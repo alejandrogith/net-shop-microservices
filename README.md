@@ -1,4 +1,4 @@
-# Proyect Management
+# Net Shop Microservices
 
 It consists of a backend application based on microservices architecture.
 It allows managing the sale of products through orders.
