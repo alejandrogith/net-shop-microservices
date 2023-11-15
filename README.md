@@ -33,6 +33,7 @@ It allows managing the sale of products through orders.
 - Entity Framework Core 6
 - Asp.net Identity 6
 - C# 11
+- Sql Server
 - Nuget dependency manager
 
 ### Getting started
